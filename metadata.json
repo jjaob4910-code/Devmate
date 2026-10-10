@@ -1,0 +1,6 @@
+{
+  "name": "Dev Mate",
+  "description": "Assistant development manager support for developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
